@@ -1,2 +1,2 @@
 # Riquifer-Ferreira-Blogspot
-Código XML do template do meu blog.
+XML code of my blogspot template.
